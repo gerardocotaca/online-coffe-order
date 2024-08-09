@@ -1,4 +1,3 @@
-#Gerardo Cota Canez, CIS 345, Online Session B, A6
 from tkinter import *
 from PIL import Image, ImageTk
 import csv
